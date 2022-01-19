@@ -1,3 +1,4 @@
 let firstName ='loyalty'
 let lastName = 'thameem'
-console.log(firstName+' '+lastName)
+let age = 23
+console.log(firstName+' '+lastName+' '+ age)
