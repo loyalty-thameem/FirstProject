@@ -1,5 +1,4 @@
-let firstName ='loyalty';
-let lastName = 'thameem';
-let age =22;
+let add =2;
+let add2 = 4;
 
-console.log(firstName+' '+lastName+' '+ age)
+console.log(add +add2)
