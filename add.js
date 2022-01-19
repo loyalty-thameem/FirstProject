@@ -1,4 +1,5 @@
 let firstName ='loyalty';
 let lastName = 'thameem';
-let age =24;
-console.log(firstName+' '+lastName)
+let age =22;
+
+console.log(firstName+' '+lastName+' '+ age)
