@@ -1,3 +1,3 @@
-let firstName ='Thameeem'
-let lastName = 'Ansari'
+let firstName ='loyalty'
+let lastName = 'thameem'
 console.log(firstName+' '+lastName)
